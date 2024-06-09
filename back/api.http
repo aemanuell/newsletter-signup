@@ -1,0 +1,7 @@
+### Subscribe to newsletter
+POST http://localhost:5000/subscribe
+Content-Type: application/json
+
+{
+  "email": "test@example.com"
+}

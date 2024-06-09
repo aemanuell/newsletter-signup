@@ -1,0 +1,24 @@
+{
+  "name": "newsletter-signup-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc --watch & ./node_modules/.bin/nodemon dist/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fastify/cors": "^9.0.1",
+    "@prisma/client": "^5.15.0",
+    "@types/node": "^20.14.2",
+    "fastify": "^4.27.0",
+    "fastify-cors": "^6.1.0",
+    "prisma": "^5.15.0"
+  },
+  "devDependencies": {
+    "@types/fastify-cors": "^2.1.0",
+    "nodemon": "^3.1.3"
+  }
+}
