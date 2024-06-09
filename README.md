@@ -1,4 +1,4 @@
-# Formulário de Boletim Informativo
+# Newsletter Signup
 
 Este é um projeto newsletter-signup inspirado no desafio do Frontend Mentor. O objetivo inicial era construir o formulário utilizando HTML, CSS e JavaScript. No entanto, decidi expandir o desafio utilizando React, TypeScript, Styled Components no front-end e uma API simples desenvolvida com Node.js e Prisma no back-end.
 
