@@ -5,16 +5,16 @@ Este é um projeto newsletter-signup inspirado no desafio do Frontend Mentor. O 
 ## 📸 Visualizações
 
 ### Tela Inicial
-![Tela Inicial](./public/assets/images/tela-inicial.png)
+![Tela Inicial](./front/public/assets/images/tela-inicial.png)
 
 ### Mensagem de Sucesso
-![Mensagem de Sucesso](./public/assets/images/mensagem-sucesso.png)
+![Mensagem de Sucesso](./front/public/assets/images/mensagem-sucesso.png)
 
 ### Validação de E-mail
-![Validação de E-mail](./public/assets/images/validacao-email.png)
+![Validação de E-mail](./front/public/assets/images/validacao-email.png)
 
 ### E-mail Already Exists 
-![E-mail Already Exists](./public/assets/images/email-already-exists.png)
+![E-mail Already Exists](./front/public/assets/images/email-already-exists.png)
 
 ## 🛠 Tecnologias Utilizadas
 
@@ -73,7 +73,7 @@ npm start
 
 #### O servidor estará disponível em http://localhost:5000/subscribe.
  
-![Servidor](./public/assets/images/servidor.png)
+![Servidor](./front/public/assets/images/servidor.png)
 
 #### Frontend
 
@@ -86,7 +86,7 @@ npm run dev
 
 ### Aplicação
 
-![Aplicação](./public/assets/images/tela-inicial.png)
+![Aplicação](./front/public/assets/images/tela-inicial.png)
 
 
 #### Prisma - ORM
@@ -98,4 +98,4 @@ npx prisma studio
 ```
 
 #### A aplicação estará disponível em http://localhost:5555.
-![Prisma](./public/assets/images/prisma.png)
+![Prisma](./front/public/assets/images/prisma.png)
